@@ -1,1 +1,1 @@
-# ChristUniversity-JavaLab-Domain-College
+# ChristUniversity-Java-Class
